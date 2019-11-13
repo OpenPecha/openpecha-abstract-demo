@@ -1,0 +1,13 @@
+id:
+type: page
+rev: "098789"
+log:
+content:
+  - id: "A0001"
+    span:
+      start_char: 0
+      end_char: 25
+  - id: "A0002"
+    span:
+      start_char: 25
+      end_char: 512

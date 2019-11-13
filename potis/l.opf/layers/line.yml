@@ -1,0 +1,23 @@
+id:
+type: line
+rev: "098789"
+log:
+content:
+  - id: "A0001"
+    span:
+      start_char: 0
+      end_char: 25
+    part_of: page/A0001
+    part_index: 1
+  - id: "A0002"
+    span:
+      start_char: 25
+      end_char: 138
+    part_of: page/A0002
+    part_index: 1
+  - id: "A0003"
+    span:
+      start_char: 138
+      end_char: 245
+    part_of: page/A0002
+    part_index: 2
